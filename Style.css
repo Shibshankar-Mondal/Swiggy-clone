@@ -637,186 +637,19 @@ header{
     align-items: center;
     color: rgba(2, 6, 12, 0.6);
 }
+.dineout2_buttom2_3{
+    height: 4vh;
+    width: 100%;
+    margin-top: 1vh;
+    border: 1px solid black;
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    color: rgba(2, 6, 12, 0.6);
+    background-color: rgb(27,166,114);
+}
 
 
-.te_amo_cafe_lounge{
-    height: 50vh;
-    width: 100vw;
-    /* border: 1px solid red; */
-    border-radius: 20px;
-}
-.te_amo_cafe_lounge img{
-    height: 50vh;
-    width: 100%;
-    border-radius: 20px;
-}
-
-.cafe_autoholic{
-    height: 50vh;
-    width: 100vw;
-    /* border: 1px solid red; */
-    border-radius: 20px;
-}
-.cafe_autoholic img{
-    height: 50vh;
-    width: 100%;
-    border-radius: 20px;
-}
-.chicken_mirch_masala{
-    height: 50vh;
-    width: 100vw;
-    /* border: 1px solid red; */
-    border-radius: 20px;
-}
-.chicken_mirch_masala img{
-    height: 50vh;
-    width: 100%;
-    border-radius: 20px;
-}
-.signature_stop_cafe{
-    height: 50vh;
-    width: 100vw;
-    /* border: 1px solid red; */
-    border-radius: 20px;
-}
-.signature_stop_cafe img{
-    height: 50vh;
-    width: 100%;
-    border-radius: 20px;
-}
-.wokao{
-    height: 50vh;
-    width: 100vw;
-    /* border: 1px solid red; */
-    border-radius: 20px;
-}
-.wokao img{
-    height: 50vh;
-    width: 100%;
-    border-radius: 20px;
-}
-.usha_dawn_of_bengali{
-    height: 50vh;
-    width: 100vw;
-    /* border: 1px solid red; */
-    border-radius: 20px;
-}
-.usha_dawn_of_bengali img{
-    height: 50vh;
-    width: 100%;
-    border-radius: 20px;
-}
-.ali_one_restaurant{
-    height: 50vh;
-    width: 100vw;
-    /* border: 1px solid red; */
-    border-radius: 20px;
-}
-.ali_one_restaurant img{
-    height: 50vh;
-    width: 100%;
-    border-radius: 20px;
-}
-
-.the_sugarr_and_spice{
-    height: 50vh;
-    width: 100vw;
-    /* border: 1px solid red; */
-    border-radius: 20px;
-}
-.the_sugarr_and_spice img{
-    height: 50vh;
-    width: 100%;
-    border-radius: 20px;
-}
-
-.burgerizzer{
-    height: 50vh;
-    width: 100vw;
-    /* border: 1px solid red; */
-    border-radius: 20px;
-}
-.burgerizzer img{
-    height: 50vh;
-    width: 100%;
-    border-radius: 20px;
-}
-
-.nyc_times_square{
-    height: 50vh;
-    width: 100vw;
-    /* border: 1px solid red; */
-    border-radius: 20px;
-}
-.nyc_times_square img{
-    height: 50vh;
-    width: 100%;
-    border-radius: 20px;
-}
-
-.tall_tales{
-    height: 50vh;
-    width: 100vw;
-    /* border: 1px solid red; */
-    border-radius: 20px;
-}
-.tall_tales img{
-    height: 50vh;
-    width: 100%;
-    border-radius: 20px;
-}
-
-.hola{
-    height: 50vh;
-    width: 100vw;
-    /* border: 1px solid red; */
-    border-radius: 20px;
-}
-.hola img{
-    height: 50vh;
-    width: 100%;
-    border-radius: 20px;
-}
-
-.lenin_crusises{
-    height: 50vh;
-    width: 100vw;
-    /* border: 1px solid red; */
-    border-radius: 20px;
-}
-.lenin_crusises img{
-    height: 50vh;
-    width: 100%;
-    border-radius: 20px;
-}
-.panvham_er_adday{
-    height: 50vh;
-    width: 100vw;
-    /* border: 1px solid red; */
-    border-radius: 20px;
-}
-.panvham_er_adday img{
-    height: 50vh;
-    width: 100%;
-    border-radius: 20px;
-}
-.vedanta{
-    height: 50vh;
-    width: 100vw;
-    /* border: 1px solid red; */
-    border-radius: 20px;
-}
-.vedanta img{
-    height: 50vh;
-    width: 100%;
-    border-radius: 20px;
-}
-.zahtar{
-    height: 50vh;
-    width: 100vw;
-    /* border: 1px solid red; */
-    border-radius: 20px;
-}
 .zahtar img{
     height: 50vh;
     width: 100%;
